@@ -1,0 +1,1 @@
+This repository is for practicing R programming language using some simple k-means clustering for customer segmentation. For this project, I am using a dataset of mall customers obtained from [kaggle.com](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python).
