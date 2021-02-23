@@ -38,11 +38,11 @@ From this plot, I was looking for a model with 5 or 6 clusters as that is where 
 
 From these plots, we can see the exact clusters we were able to make out before when looking at the interaction between spending score and income levels. When we look at the two plots involving ages, we can see some defined clusters, but there is a good deal of overlap and a large spread of ages in some clusters. Additionally, one cluster (middle income and middle spending) is much denser than the others. I decided to build a model with 6 clusters and compare it to the 5 cluster model. Here are the resulting plots for the 6 cluster model.
 
-![](Customer_Segmentation_Using_R_files/figure-gfm/unnamed-chunk-16-1.png)
-
-![](Customer_Segmentation_Using_R_files/figure-gfm/unnamed-chunk-17-1.png)
-
 ![](Customer_Segmentation_Using_R_files/figure-gfm/unnamed-chunk-18-1.png)
+
+![](Customer_Segmentation_Using_R_files/figure-gfm/unnamed-chunk-19-1.png)
+
+![](Customer_Segmentation_Using_R_files/figure-gfm/unnamed-chunk-20-1.png)
 
 Here we see that the middle income and middle spending cluster has been split into two. This amount of overlap is less than ideal, but we can also see that there is better segmentation when accounting for age. Additionally, the clusters now have more consistent numbers of datapoints in each cluster. The model with 6 clusters is an overall better model for segmenting the customer base.
 
